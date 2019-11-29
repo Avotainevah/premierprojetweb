@@ -1,0 +1,20 @@
+.bouton {
+	padding: 10px;
+	font-size:  150px;
+	background-color: purple;
+	color: black;
+	margin: 450px 600px;
+	
+}
+
+.bouton:hover {
+	background-color: orange;
+	color: white;
+	padding: 20px;
+/* transform: translateY(100%); */
+}
+
+.bouton:active {
+	background-color: fuchsia;
+	color: blue;
+}
